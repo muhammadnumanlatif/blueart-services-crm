@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # specific file
-django_crm/settings.py
+https://github.com/muhammadnumanlatif/blueart-services-crm/blob/master/django_crm/settings.py
 
 # Distribution / packaging
 .Python
