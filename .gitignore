@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-settings.py
+
 # C extensions
 *.so
+
+# specific file
+django_crm/settings.py
 
 # Distribution / packaging
 .Python
